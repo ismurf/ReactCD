@@ -1,8 +1,9 @@
 import './header.css';
+//import bannerhead from './bannerhead.png';
 function Header(){
     return(
         <div className="banner">
-            <img src="" alt=""></img>
+            {/*<img src=  {bannerhead} alt="circuitos" className="circuitos"/>*/}
             <div className="logo">
                 <img src="" alt=""></img>
             </div>

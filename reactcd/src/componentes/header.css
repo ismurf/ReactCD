@@ -1,0 +1,44 @@
+
+.banner{
+    background-image: image(url="./bannerhead.png");
+    background-color: aqua;
+    width:100%;
+    
+    height: auto;
+    margin:auto;
+
+}
+
+a{
+     color:gray;
+     font-size: 1.7em;
+}
+
+a:link{
+    color:gray;
+    text-decoration: none;
+
+}
+
+a:visited{
+    color:gray;
+}
+
+a:hover{
+    color:violet;
+    text-decoration: underline;
+}
+a:active{
+    color:gray;
+    text-decoration: none;
+}
+
+.upperMenu{
+    background-color: blue;
+    display: grid;
+    list-style-type: none;
+    grid-auto-flow: column;
+    grid-gap:10% ;
+    margin: auto;
+
+}
