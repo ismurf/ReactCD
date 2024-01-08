@@ -1,44 +1,49 @@
 
 .banner{
-    background-image: image(url="./bannerhead.png");
+    background-image:url("./bannerhead.png");
     background-color: aqua;
+    box-sizing: border-box;
     width:100%;
-    
     height: auto;
     margin:auto;
-
 }
 
 a{
-     color:gray;
-     font-size: 1.7em;
+     color:#EAEBEB;
+     font-size: 1.8em;
 }
 
 a:link{
-    color:gray;
+    color:#EAEBEB;
     text-decoration: none;
 
 }
 
 a:visited{
-    color:gray;
+    color:#EAEBEB;
 }
 
 a:hover{
-    color:violet;
+    color:#C22D32;
     text-decoration: underline;
 }
 a:active{
-    color:gray;
+    color:#EAEBEB;
     text-decoration: none;
 }
 
 .upperMenu{
-    background-color: blue;
+    background-color: #2E3091;
     display: grid;
     list-style-type: none;
     grid-auto-flow: column;
-    grid-gap:10% ;
+    grid-gap:12% ;
     margin: auto;
+}
 
+.logo{
+    width: auto;
+    height: auto;
+    box-sizing: border-box;
+    margin: auto;
 }
