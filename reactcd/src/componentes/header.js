@@ -1,4 +1,5 @@
-function header(){
+import './header.css';
+function Header(){
     return(
         <div className="banner">
             <img src="" alt=""></img>
@@ -21,4 +22,4 @@ function header(){
     )
 }
 
-export default header;
+export default Header;
