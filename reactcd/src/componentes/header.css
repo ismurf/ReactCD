@@ -1,6 +1,6 @@
 
 .banner{
-    background-image:url("./bannerhead.png");
+    background-image:url("../images/bannerhead.png");
     background-color: aqua;
     box-sizing: border-box;
     width:100%;
