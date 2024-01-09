@@ -1,3 +1,46 @@
 .wrapper{
-    background-image: url("./handsBlur.png");
+    background-color:blanchedalmond;
+    width: 100%;
+    height: auto;
+    margin: auto;
+    box-sizing: border-box;
+
+}
+
+.tituloseccion{
+    background-color: red;
+}
+
+.contenedor {
+    background-image:url("./handsBlur.png");
+    
+   background-color: blueviolet;
+   background-size:cover;
+    background-repeat: no-repeat;
+    grid-auto-flow: column;
+    grid-gap:12% ;
+    width: 100%;
+    height: auto;
+    margin: auto;
+    
+}
+.card{
+    color:gray;
+    /**/
+    /*background-repeat: no-repeat;*/
+    /*background-color:darkblue;*/
+    opacity: 0.8;
+   /* display: grid;*/
+    /*list-style-type: none;*/
+    
+    width:17.9%;
+    height: 100%;
+    
+}
+.cardbody{
+    background-image:url("./up1.png");
+    background-color: blueviolet;
+    width:20%;
+    height: 20%;
+    margin: auto;
 }
