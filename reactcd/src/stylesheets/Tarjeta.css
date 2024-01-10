@@ -1,0 +1,48 @@
+.contenedor-tarjeta{
+   width:92%;
+   height:auto;
+   min-height: fit-content;
+   margin: auto; 
+   display:flex;
+   align-items:center;
+   margin:auto;
+   justify-content: center;
+   background-color: #EAEBEB; 
+   box-shadow: 18px 18px 17px -6px rgba(0,0,0,0.49);
+}
+
+.imagen-tarjeta{
+    height: 100%;
+    box-sizing: border-box;
+    width:auto;
+    max-height: fit-content;
+}
+
+.contenedor-texto-tarjeta{
+    /*background-color: aqua;*/
+    width:auto;
+    height:auto;
+    text-align:center;
+    padding: 2.45%;
+    font-weight:350;
+   
+}
+
+.nombreTarjeta{
+    /*background-color: blue;*/
+   font-size:1.5em;
+
+}
+.descripcionTexto{
+    /*background-color: chartreuse;*/
+    font-size:1.05rem;
+    margin-top:1.5%;
+    padding:.3em;
+    text-align: center;
+}
+
+.textoDescriptivo{
+    /*background-color: blueviolet;*/
+    font-size: 1em;
+    text-align:justify;
+}

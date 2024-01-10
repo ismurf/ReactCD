@@ -47,3 +47,9 @@ a:active{
     box-sizing: border-box;
     margin: auto;
 }
+
+
+.logotipo{
+    width:15%;
+    height:15%;
+}

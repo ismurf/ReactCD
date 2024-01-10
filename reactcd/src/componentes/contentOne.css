@@ -8,7 +8,7 @@
 }
 
 .tituloSeccion{
-   color: #EAEBEB;
+   color:#707070 ;
 }
 
 .contenedor {
@@ -49,4 +49,13 @@
     font-size: 1.5em;
 }
 
+h1{
+    max-width:60%;
+    font-size: 1.5em;
+    font-weight:700;
+    line-height:1.1;
+    margin: auto;
+    padding: 2%;
+
+}
 
