@@ -1,11 +1,12 @@
 .contador{
     background-color: #707070;
-    width: 80px;
-    height: 80px;
-    font-size:100px;
-    
-    color:gray;
-    margin-left:100%;
-    border:9px solid black;
+    width: 60px;
+    height: 60px;
+    font-size:3em;
+    color:#2E3091;
+    margin:auto;
+    text-align: center;
+    border:2px solid red;
+    padding:1%;
 }
 

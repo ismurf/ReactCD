@@ -43,13 +43,14 @@ function App() {
 
 
       </div>
+      <br />
         <div className="logoContenedor">
-          <img 
+          {/*<img 
             className='MonzalvoLogo'
             src={MonzalvoLogo}
             alt='logo de empresa'
-          />
-          <p>Registra tu visita</p>
+  />*/}
+          <p><strong>Registra tu visita</strong></p>
           {/*<h1>AQUI VA EL FOOTER DE LA PAGINA</h1>*/}
           </div>
           <div className='contenedor-botones'>

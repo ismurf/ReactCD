@@ -15,7 +15,7 @@ html,body{
   margin:auto;
 }
 
-contenedor-principal{
+.contenedor-principal{
   min-height: auto;
   display:flex;
   flex-wrap: wrap;
@@ -24,13 +24,13 @@ contenedor-principal{
 
 }
 
-.conteneedor-principal{
+/*.conteneedor-principal{
   height: auto;
   width:auto;
   display:flex;
   flex-direction:column;
   align-items: center;
-}
+}*/
 
 
 .logoContenedor {
@@ -38,6 +38,11 @@ contenedor-principal{
   width:auto;
   height:auto;
   margin:auto;
+  padding:.2em;
+}
+
+p{
+  padding:.2em;
 }
 
 .MonzalvoLogo {
@@ -68,6 +73,7 @@ contenedor-principal{
   height: auto;
   background-color: #707070;
   margin:auto;
+  padding:.2em;
 }
 
 
